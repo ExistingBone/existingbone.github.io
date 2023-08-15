@@ -1,0 +1,44 @@
+body
+{
+    color: #ffffff;
+    background-color: #000000;
+    color-scheme: dark;
+}
+h1
+{
+    text-align: center;
+}
+a
+{
+    color: #7fff00;
+    text-decoration: none;
+}
+a:hover
+{
+    color: #4b9900;
+}
+#hr-1
+{
+    width: 85%;
+}
+#image-1
+{
+    float: right;
+    height: 171px;
+    width: 256px;
+}
+#image-1:hover
+{
+    background-image: url('Resources/food-1.jpg?v=1.6');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#corner-icon
+{
+    position: absolute;
+    bottom: 0;
+    right: 0px;
+    margin: 4px;
+    height: 60px;
+    width: 60px;
+}
